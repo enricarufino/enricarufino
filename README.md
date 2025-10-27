@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Hi, I'm Ashley👋! An aspiring Software Engineer who's into UI/UX designing and Quality Assurance as well.</h2>
+<h2 align="center">Hi, I'm Ashley👋! An aspiring Software Engineer who's into UI/UX designing and QA Testing as well.</h2>
 
 
 ###
