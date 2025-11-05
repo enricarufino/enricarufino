@@ -85,9 +85,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=enricarufino&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+
+![enricarufino's Stats](https://github-readme-stats.vercel.app/api?username=enricarufino&theme=radical&show_icons=true&hide_border=false&count_private=true)
+![enricarufino's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enricarufino&theme=radical&show_icons=true&hide_border=false&layout=compact)
 
 ###
 
